@@ -1,0 +1,127 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "studentNumber": "100",
+      "name": "ByVely",
+      "surname": "Devoloper",
+      "class": "5-A",
+      "Name": "ByVely",
+      "Surname": "Devoloper"
+    },
+    {
+      "id": "1666723790465",
+      "studentNumber": "102",
+      "name": "Cemil",
+      "surname": "Sonyolcu",
+      "class": "5-C",
+      "Name": "Cemil",
+      "Surname": "Sonyolcu"
+    },
+    {
+      "id": "1666723819522",
+      "studentNumber": "103",
+      "name": "Özgür",
+      "surname": "Köyçobanı",
+      "class": "4-B"
+    },
+    {
+      "id": "1666723875690",
+      "studentNumber": "104",
+      "name": "Beyzanur",
+      "surname": "Nurzade",
+      "class": "5-B"
+    },
+    {
+      "id": "1666723913930",
+      "studentNumber": "105",
+      "name": "Hatice",
+      "surname": "Gündüz",
+      "class": "4-C"
+    },
+    {
+      "id": "1666723950666",
+      "studentNumber": "106",
+      "name": "Erkan",
+      "surname": "Sarıyıldız",
+      "class": "4-A"
+    },
+    {
+      "id": "1666724001858",
+      "studentNumber": "108",
+      "name": "Esra",
+      "surname": "Parmaksız",
+      "class": "5-A"
+    },
+    {
+      "id": "1666724041330",
+      "studentNumber": "109",
+      "name": "Ali",
+      "surname": "Koyuncu",
+      "class": "4-B"
+    },
+    {
+      "id": "1667050658929",
+      "studentNumber": "110",
+      "name": "Mehmet",
+      "surname": "Tepedağ",
+      "class": "4-B"
+    },
+    {
+      "id": "1667052064045",
+      "studentNumber": "111",
+      "name": "Muhammed",
+      "surname": "Ali",
+      "class": "4-A"
+    },
+    {
+      "id": "1667052097205",
+      "studentNumber": "113",
+      "name": "Ayşe",
+      "surname": "Kuzucu",
+      "class": "4-A"
+    },
+    {
+      "id": "1667052130702",
+      "studentNumber": "114",
+      "name": "Fatma",
+      "surname": "Aygül",
+      "class": "4-C"
+    },
+    {
+      "id": "1667052150893",
+      "studentNumber": "115",
+      "name": "Zehra",
+      "surname": "Taş",
+      "class": "4-C"
+    },
+    {
+      "id": "1667052183621",
+      "studentNumber": "116",
+      "name": "Oğuz",
+      "surname": "Toprak",
+      "class": "5-B"
+    },
+    {
+      "id": "1667052205517",
+      "studentNumber": "117",
+      "name": "Haydar",
+      "surname": "Hakyemez",
+      "class": "5-B"
+    },
+    {
+      "id": "1667052238181",
+      "studentNumber": "118",
+      "name": "Erdal",
+      "surname": "Yolcu",
+      "class": "5-C"
+    },
+    {
+      "id": "1667052268173",
+      "studentNumber": "119",
+      "name": "Ali",
+      "surname": "Bakıcı",
+      "class": "5-C"
+    }
+  ]
+}
